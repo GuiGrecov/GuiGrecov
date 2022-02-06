@@ -1,6 +1,6 @@
 ### Guilherme Grecov - [People Analytics] 👋
 
-## Estudante de Bacharel em Ciências e Tecnologia pela UFABC e atuo como People Analytics na Juntos Somos Mais - voltado para resoluções de problemas. 
+## Estudante UFABC. Atuo como People Analytics na Juntos Somos Mais - voltado para resoluções de problemas. 
 
 - 💻 Atua como People Analytics apaixonado em Data Science
 - 💻 Faço consultoria para iniciantes em Data Science e People Analytics 
@@ -33,6 +33,9 @@
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
 <img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pytorch.svg" />
+
+<img align="left" alt="PowerBI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
+
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
