@@ -1,4 +1,4 @@
-### Guilherme Grecov - [People Analytics] 👋
+### Guilherme Grecov | [People Analytics at Juntos Somos Mais] :rocket:
 
 ## Trabalha como People Analytics com foco em resolução de problemas
 
