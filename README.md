@@ -1,6 +1,6 @@
 ### Guilherme Grecov - [People Analytics] 👋
 
-## Trabalha como People Analytics com foco em resolução de problemas - análises descritivas, diagnósticas e preditivas
+## Trabalha como People Analytics com foco em resolução de problemas
 
 - 💻 Atua como People Analytics apaixonado em Data Science
 - 💻 Faço consultoria para iniciantes em Data Science e People Analytics 
