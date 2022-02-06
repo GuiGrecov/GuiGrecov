@@ -2,7 +2,7 @@
 
 ## Trabalha como People Analytics com foco em resolução de problemas
 
-- 💻 Apaixonado em dados e análises. Seja People Analytics, quanto Data Analytics e Data Science
+- 💻 Apaixonado em análise de dados. Seja People Analytics, quanto Data Analytics e Data Science
 - 💻 Faço consultoria para iniciantes em Data Science e People Analytics 
 - 📈 Constatemente fazendo novos projetos e melhorando habilidades 
 - 📊 Gosto de ensinar e colaborar para um mundo mais democrático 
