@@ -1,6 +1,6 @@
 ### Guilherme Grecov - [People Analytics] 👋
 
-## Estudante UFABC. Atuo como People Analytics na Juntos Somos Mais - voltado para resoluções de problemas. 
+## Trabalha como People Analytics com foco em resolução de problemas - análises descritivas, diagnósticas e preditivas
 
 - 💻 Atua como People Analytics apaixonado em Data Science
 - 💻 Faço consultoria para iniciantes em Data Science e People Analytics 
